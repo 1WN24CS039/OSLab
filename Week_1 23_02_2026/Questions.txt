@@ -1,0 +1,8 @@
+1.       Write a program in C to find the second smallest
+element in an array.
+2.       Write a program in C to find the sum of the left
+diagonals of a matrix.
+3.       Write a program in C to find the sum of rows and
+columns of a matrix.
+4.       Write a program in C to count the total
+number of duplicate elements in an array.
